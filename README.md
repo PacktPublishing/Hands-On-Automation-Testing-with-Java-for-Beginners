@@ -36,7 +36,7 @@ public class finaldemo {
 **Following is what you need for this book:**
 This book is intended for software developers who want to step into the world of software quality assurance and perform automation testing using testing frameworks. This book assumes Java programming experience for writing tests.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-).
+With the following software and hardware list you can run all code files present in the book.
 ### Software and Hardware List
 | Chapter | Software required | OS required |
 | -------- | ------------------------------------ | ----------------------------------- |
