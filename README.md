@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B11646?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # Hands-On Automation Testing with Java for Beginners
 
 <a href="https://www.packtpub.com/application-development/hands-automation-testing-java-beginners?utm_source=github&utm_medium=repository&utm_campaign=9781789534603 "><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B10400.png" alt="Hands-On Automation Testing with Java for Beginners" height="256px" align="right"></a>
