@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781789534603)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # Hands-On Automation Testing with Java for Beginners
 
 <a href="https://www.packtpub.com/application-development/hands-automation-testing-java-beginners?utm_source=github&utm_medium=repository&utm_campaign=9781789534603 "><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B10400.png" alt="Hands-On Automation Testing with Java for Beginners" height="256px" align="right"></a>
